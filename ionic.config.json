@@ -1,5 +1,7 @@
 {
   "name": "telopresto",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
